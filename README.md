@@ -150,7 +150,8 @@ Number(true);
 That leaves us with `1 < 4`, which the JavaScript engine correctly evaluates to
 `true`. Can you figure out how to properly evaluate whether `5` is greater than
 `2` **AND** `5` is less than `4` using logical operators? Ponder that as you work
-through the assignment.
+through the assignment.phase-1-control-flow-lab
+
 
 After you have all the tests passing, remember to commit and push your changes
 up to GitHub, then submit your work to Canvas using CodeGrade. If you need a
